@@ -8,6 +8,9 @@ Sample input: [0, 3, 1, 0, -2]
 Expected output: 3
 Expected output array state: [3, 1, -2, 0, 0]
 ```
+Do a insertion sort and compare the two items, higher number
+will always go left. 
+
 
 ```
 Sample input: [4, 2, 1, 5]
